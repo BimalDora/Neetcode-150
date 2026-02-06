@@ -93,7 +93,7 @@ neetcode-150/
 ### Two Pointers
 - [ ] Valid Palindrome
 - [ ] Two Sum II - Input Array is Sorted
-- [ ] 3Sum
+- [ ] 3 Sum
 - [ ] Container With Most Water
 - [ ] Trapping Rain Water
 
@@ -268,10 +268,20 @@ neetcode-150/
 ---
 
 ## 🤝 Contributing
-This is a personal learning project, but feel free to suggest improvements or alternative solutions via pull requests.
+
+Contributions are welcome!
+* Fork the repo
+* Create a new branch
+* Submit a PR with improvements
 
 ---
-## 📌 License
+
+## 📜 License
 This project is licensed under the MIT License.
+
+---
+
+## ⭐ Support
+If you find this repo helpful, please star it to support my journey!
 
 ---
