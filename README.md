@@ -38,9 +38,9 @@ This repo contains:
 ```
 neetcode-150/
 ├───arrays
+│   ├───static_arrays
 │   ├───dynamic_arrays
-│   ├───stacks
-│   └───static_arrays
+│   └───stacks
 ├───backtracking
 ├───binary_search
 ├───bit_manipulation
