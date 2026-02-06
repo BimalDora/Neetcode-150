@@ -1,7 +1,7 @@
 # NeetCode 150 Solutions
 
-A collection of my solutions to the **NeetCode 150** problems, implemented in Python.  
-This repository documents my journey of mastering **Data Structures and Algorithms (DSA)** through practice and clean, reproducible code.
+Solutions to the NeetCode 150 problems in Python, organized by topic with well-documented code and explanations.
+This repository reflects my commitment to strengthening problem-solving skills and building a solid foundation in Data Structures and Algorithms (DSA).
 
 ---
 
