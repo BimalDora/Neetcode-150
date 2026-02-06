@@ -15,7 +15,7 @@ The **NeetCode 150** is a curated list of essential coding interview problems co
 - Trees
 - Graphs
 - Dynamic Programming
-- Advanced Topics
+- Recursion
 
 This repo contains:
 - ✅ Python solutions
