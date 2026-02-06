@@ -1,5 +1,12 @@
 # NeetCode 150 Solutions
 
+[![NeetCode 150](https://img.shields.io/badge/Practice-NeetCode150-blue)](https://neetcode.io/practice/practice/neetcode150)
+![Python](https://img.shields.io/badge/language-Python-blue?logo=python)
+![Progress](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/BimalDora/Neetcode-150/main/.github/progress.json)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Repo Size](https://img.shields.io/github/repo-size/BimalDora/Neetcode-150)
+
+
 Solutions to the NeetCode 150 problems in Python, organized by topic with well-documented code and explanations.
 This repository reflects my commitment to strengthening problem-solving skills and building a solid foundation in Data Structures and Algorithms (DSA).
 
@@ -16,6 +23,8 @@ The **NeetCode 150** is a curated list of essential coding interview problems co
 - Graphs
 - Dynamic Programming
 - Recursion
+
+👉 You can view the full problem set here: [NeetCode 150 Practice](https://neetcode.io/practice/practice/neetcode150)
 
 This repo contains:
 - ✅ Python solutions
@@ -65,7 +74,7 @@ neetcode-150/
    cd neetcode-150/arrays
 3. Run the solution:
    ```bash
-   python problem_name.py
+   python file_name.py
 ---
 
 
