@@ -46,21 +46,6 @@ This repo contains:
 
 ```
 neetcode-150/
-├───arrays
-│   ├───static_arrays
-│   ├───dynamic_arrays
-│   └───stacks
-├───backtracking
-├───binary_search
-├───bit_manipulation
-├───dynamic_programming
-├───graphs
-├───hashing
-├───heap
-├───linked_lists
-├───recursion
-├───sorting
-└───trees
 ```
 ---
 
@@ -90,6 +75,14 @@ neetcode-150/
 - [ ] Valid Sudoku
 - [ ] Longest Consecutive Sequence
 
+### Stack
+- [ ] Valid Parentheses
+- [ ] Min Stack
+- [ ] Evaluate Reverse Polish Notation
+- [ ] Daily Temperatures
+- [ ] Car Fleet
+- [ ] Largest Rectangle in Histogram
+
 ### Two Pointers
 - [ ] Valid Palindrome
 - [ ] Two Sum II - Input Array is Sorted
@@ -104,14 +97,6 @@ neetcode-150/
 - [ ] Permutation In String
 - [ ] Minimum Window Substring
 - [ ] Sliding Window Maximum
-
-### Stack
-- [ ] Valid Parentheses
-- [ ] Min Stack
-- [ ] Evaluate Reverse Polish Notation
-- [ ] Daily Temperatures
-- [ ] Car Fleet
-- [ ] Largest Rectangle in Histogram
 
 ### Binary Search
 - [ ] Binary Search
