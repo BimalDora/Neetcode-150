@@ -2,7 +2,7 @@
 
 [![NeetCode 150](https://img.shields.io/badge/Practice-NeetCode150-blue)](https://neetcode.io/practice/practice/neetcode150)
 ![Python](https://img.shields.io/badge/language-Python-blue?logo=python)
-![Problems Solved](https://img.shields.io/badge/Progress-1%2F150-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Progress-2%2F150-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Repo Size](https://img.shields.io/github/repo-size/BimalDora/Neetcode-150)
 
@@ -76,7 +76,7 @@ neetcode-150/
 - [ ] Longest Consecutive Sequence
 
 ### Stack
-- [ ] Valid Parentheses
+- ✅ Valid Parentheses
 - [ ] Min Stack
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Daily Temperatures
@@ -84,7 +84,7 @@ neetcode-150/
 - [ ] Largest Rectangle in Histogram
 
 ### Two Pointers
-- [ ] Valid Palindrome
+- ✅ Valid Palindrome
 - [ ] Two Sum II - Input Array is Sorted
 - [ ] 3 Sum
 - [ ] Container With Most Water
