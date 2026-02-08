@@ -85,7 +85,7 @@ neetcode-150/
 
 ### Two Pointers
 - ✅ Valid Palindrome
-- [ ] Two Sum II - Input Array is Sorted
+- ✅ Two Sum II - Input Array is Sorted
 - [ ] 3 Sum
 - [ ] Container With Most Water
 - [ ] Trapping Rain Water
